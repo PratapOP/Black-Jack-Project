@@ -1,2 +1,18 @@
-# Black-Jack-Project
-A Python-based implementation of the classic Blackjack card game, featuring a player vs. dealer gameplay, adherence to standard rules, and a console-based interface. Designed to demonstrate Object-Oriented Programming concepts and provide a fun, interactive experience.
+# Blackjack Game  
+
+A Python-based implementation of the classic Blackjack card game. This project allows you to play against a dealer in a console-based environment while adhering to standard Blackjack rules.  
+
+---
+
+## Features  
+- Player vs. Dealer gameplay.  
+- Standard rules (hit, stand, bust, and scoring).  
+- Console-based user interface.  
+- Object-Oriented Programming (OOP) design principles.  
+
+---
+
+## Getting Started  
+
+### Prerequisites  
+- Python 3.x installed on your system.
